@@ -22,7 +22,7 @@ The application is built with a focus on **low-latency predictions**, **concurre
 Food vendors and delivery platforms often struggle with:
 - Predicting customer demand accurately
 - Identifying top items during peak hours
-- Making quick, data-driven decisions
+- Making quick, data-driven decisions and accurate prediction
 
 NextBite addresses this by using **machine learning** to rank food items and present actionable predictions through an interactive web interface.
 
